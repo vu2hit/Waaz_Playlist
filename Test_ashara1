@@ -1,2 +1,5 @@
 #Test1
 https://playback2.akamaized.net/streams/15629517_9243004_lsiehuefkvrqz1qk1ji_1/exp=1597658696~acl=%2f*~data=hdntl~hmac=c68a0dda0e60ce054e6f5b2e3fb59d15be3aed8a6a335bda270c171eb7e9134f/media/15629517_9243004_lsiehuefkvrqz1qk1ji_1@2756000p.m3u8?dw=14400&ts=1597572000
+https://playback2.akamaized.net/streams/15629517_9243004_lsiehuefkvrqz1qk1ji_1/master.m3u8?dw=14400&hdnts=exp=1597572596~acl=/streams/15629517_9243004_lsiehuefkvrqz1qk1ji_1/master.m3u8*~hmac=9752124520b938c1892ce11f7934c88c6f6e1e096f30cbe00974ee1f2ccf7224
+https://playback2.akamaized.net/streams/15629517_9243004_lsiehuefkvrqz1qk1ji_1/exp=1597658696~acl=%2f*~data=hdntl~hmac=c68a0dda0e60ce054e6f5b2e3fb59d15be3aed8a6a335bda270c171eb7e9134f/media/15629517_9243004_lsiehuefkvrqz1qk1ji_1@5256000p.m3u8?dw=14400&ts=1597572000
+https://playback2.akamaized.net/streams/15629517_9243004_lsiehuefkvrqz1qk1ji_1/master.m3u8?dw=14400&hdnts=exp=1597572596~acl=/streams/15629517_9243004_lsiehuefkvrqz1qk1ji_1/master.m3u8*~hmac=9752124520b938c1892ce11f7934c88c6f6e1e096f30cbe00974ee1f2ccf7224
